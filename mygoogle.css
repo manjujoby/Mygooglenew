@@ -1,0 +1,97 @@
+.Outer1
+{
+    OWfcPHYsp269QPpjTxy5QS0H5fHllVScnOMulillBaKdZPBNYXO19j12P4dr4WqwZfQ5ujUFJNe4spqdG/oQN+3qMM1OFj8NVDmLx6VZtVUbrJ+zIKjfoPbpjgzrhhocxjzzKjFUU7uOYtyrF9QG47Mb6WF7b377OxDDlWc5RVwx0dcJKZyOWZ5N7Meul7WN9+oHc47ZvhzQ1Fwte4jKnk6YxcX7k33HTbbHPkuRmuypIM2YCWYaleHcLtfpa3Tv0ODuWHLOF8rjpmrXq3i1b/ea+5sAOmM3zB7pXPFHAFTlUEr0XOeJG1c8ldwF32G674V6TLBUxlS8hkUeKJySRboLbkd8WHxbxEuaUjNBO0DpbRG0erwm+/X26jbtfAXh/RCsMLqgleQK7og1BWGxaw33G1/Xyxabroha0VGSzsghM0E0OoI/SaLqVPTpv6gi4PW+vN6Z4a5hJK08Uya6WWQbtGQpQm3fSLH1B9cWBm2RrV5vHzK6J2jjYRRGTW7gjcjbYb+v0wK4kygjKaVAn2tNFYKepG5A/MnFITETiNuRkLh1CvIFsAb+QwiYZOL6q7Q0im4Tf6dsLeMZv5FRwmLW+E/FdqKbIKrxuVJpwf9xbHwfS5Pt7YqnH3DLJBKksLskiEMrKbFSO4woypjas9J0qxZhUzyLKDBUQIUlVt4nUWIZettt8dmWPQrl9ZlDcuOdZdRVm2fpuL+gH+DFfcEcX0GcyQ0+YaKXNlYMsynQJm89tiT3Ug39e1lQZblcs/wAyURnUabH+H0v16434+ok1LJXLmqiLVypEJkRomurejA7j3Fuu/nqrJJi/IpDJUSxkB0lN0Rd9r9zt6bnByJmjKwwgBQuyg37jvjdBSw09+RDFEGOo2Hc9ThWMR62ged5Fk+xpluHl0ggeSrtc/wB+3cNX0/yhMlIjCqUFdAOrUOx3AF7W29PTFmVNLTSAmRiWta4JFvYYA/JQUt4l06FJZdI7nvve2BdEJFJlub01ScxqJjFpAKx8zUwsBsT7AbegwO4gziYtJXVLkRRL4QTuTa1vz);
+}
+
+.maindiv
+{
+    width: 100%;
+    height: 800px;
+    background: rgb(31, 30, 30);
+    
+}
+.firstdiv
+ {
+    width: 100%;
+    height: 100px;
+   
+    background: rgb(31,30, 30);
+}
+.fdivpart1
+{
+    width: 60%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+}
+.fdivpart2
+{ 
+    width: 8%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+
+
+   
+}
+
+.fdivpart3
+{ 
+    width: 8%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+}
+.fdivpart4
+{ 
+    width: 8%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+}
+.fdivpart5
+{ 
+    width: 8%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+    
+
+}
+.fdivpart6
+{ 
+    width: 8%;
+    height: 100px;
+    float: left;
+    background:  rgb(31,30, 30);
+}
+.circle
+{
+    width: 80px;
+    height:80px ;
+    border-radius: 40px;
+    background: rgb(3, 52, 65);
+    margin-top: 10px;
+}
+.seconddiv
+{
+    width: 100%;
+    height: 100px;
+    background:  rgb(31,30, 30);
+}
+.thirddiv
+{
+    width: 100%;
+    height: 500px;
+    background:  rgb(31,30, 30);
+
+}
+
+#glogo
+{
+    background-image:url(chrome://new-tab-page/icons/google_logo.svg')
+
+}
+
+
+    
